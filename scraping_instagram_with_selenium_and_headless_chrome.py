@@ -9,6 +9,7 @@ import random
 
 
 class Instagram_Bot:
+    
     #Bu ana metod Headless Chrome'yi aktif eder ve bilgiler değişkeni adı altında dictionary(sözlük) tanımlar.
     #bilgi değikenindeusername ve userid değişkenlik göstermeyeceğinden string tipinde aldım.Fakat resim yüklenme tarihi,instagramın 
     #yapay zekasının resime yaptığı yorum(alt) v.s bilgiler değişkenlik gösterdiğinden liste halinde tuttum.
